@@ -1,0 +1,6 @@
+@Licencias___PF_HostAddress = http://localhost:5029
+
+GET {{Licencias___PF_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

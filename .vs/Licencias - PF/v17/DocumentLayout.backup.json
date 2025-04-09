@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mateo dambro\\source\\repos\\Coderhouse\\Licencias - PF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA6F226-CCBB-4466-8E91-9A36255E48DE}|Licencias - PF.csproj|c:\\users\\mateo dambro\\source\\repos\\coderhouse\\licencias - pf\\controllers\\licenciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA6F226-CCBB-4466-8E91-9A36255E48DE}|Licencias - PF.csproj|solutionrelative:controllers\\licenciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA6F226-CCBB-4466-8E91-9A36255E48DE}|Licencias - PF.csproj|c:\\users\\mateo dambro\\source\\repos\\coderhouse\\licencias - pf\\model\\licencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA6F226-CCBB-4466-8E91-9A36255E48DE}|Licencias - PF.csproj|solutionrelative:model\\licencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA6F226-CCBB-4466-8E91-9A36255E48DE}|Licencias - PF.csproj|c:\\users\\mateo dambro\\source\\repos\\coderhouse\\licencias - pf\\model\\dto\\licenciacreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA6F226-CCBB-4466-8E91-9A36255E48DE}|Licencias - PF.csproj|solutionrelative:model\\dto\\licenciacreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA6F226-CCBB-4466-8E91-9A36255E48DE}|Licencias - PF.csproj|c:\\users\\mateo dambro\\source\\repos\\coderhouse\\licencias - pf\\licenciacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA6F226-CCBB-4466-8E91-9A36255E48DE}|Licencias - PF.csproj|solutionrelative:licenciacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LicenciaCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\mateo dambro\\source\\repos\\Coderhouse\\Licencias - PF\\Model\\DTO\\LicenciaCreateDto.cs",
+              "RelativeDocumentMoniker": "Model\\DTO\\LicenciaCreateDto.cs",
+              "ToolTip": "C:\\Users\\mateo dambro\\source\\repos\\Coderhouse\\Licencias - PF\\Model\\DTO\\LicenciaCreateDto.cs",
+              "RelativeToolTip": "Model\\DTO\\LicenciaCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T05:08:03.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LicenciaController.cs",
+              "DocumentMoniker": "C:\\Users\\mateo dambro\\source\\repos\\Coderhouse\\Licencias - PF\\Controllers\\LicenciaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LicenciaController.cs",
+              "ToolTip": "C:\\Users\\mateo dambro\\source\\repos\\Coderhouse\\Licencias - PF\\Controllers\\LicenciaController.cs",
+              "RelativeToolTip": "Controllers\\LicenciaController.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAcwI0AAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T08:06:29.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Licencia.cs",
+              "DocumentMoniker": "C:\\Users\\mateo dambro\\source\\repos\\Coderhouse\\Licencias - PF\\Model\\Licencia.cs",
+              "RelativeDocumentMoniker": "Model\\Licencia.cs",
+              "ToolTip": "C:\\Users\\mateo dambro\\source\\repos\\Coderhouse\\Licencias - PF\\Model\\Licencia.cs",
+              "RelativeToolTip": "Model\\Licencia.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCMAAADuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T07:59:41.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LicenciaContext.cs",
+              "DocumentMoniker": "C:\\Users\\mateo dambro\\source\\repos\\Coderhouse\\Licencias - PF\\LicenciaContext.cs",
+              "RelativeDocumentMoniker": "LicenciaContext.cs",
+              "ToolTip": "C:\\Users\\mateo dambro\\source\\repos\\Coderhouse\\Licencias - PF\\LicenciaContext.cs",
+              "RelativeToolTip": "LicenciaContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T08:52:48.271Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
